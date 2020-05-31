@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;MafiaApplication.java&apos; to &apos;mafia&apos;" description="Move &apos;MafiaApplication.java&apos; to &apos;mafia&apos;" destination="src/main/java/com/mafia" element1="src/main/java/com/mafia/mafia/MafiaApplication.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1588380288943" updateReferences="true"/>
+</session>
